@@ -1,13 +1,15 @@
 # Walmart_Sales_Analysis-----SQL
 
-## Objectives:
+## Objectives
 
 The major aim of this project is to gain insight into the sales data of Walmart to understand the different factors that affect sales of the different branche such as analyze customer behavior and preferences.
 
-This dataset contains sales transactions from a three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns and 1000 rows:
-payment,gross income, gross margin % , payments,tax, etc..
+## Overview
 
-### Insights Summary:
+This dataset contains sales transactions from a three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns and 1000 rows:
+payment,gross income, gross margin % , payments,tax, etc..  The goal is to derive insights from the data using SQL queries.
+
+## Insights Summary:
 
 1. **Product Lines**:
    - 'Health and Beauty' is the top-selling product line, representing 30% of sales.
@@ -40,7 +42,7 @@ payment,gross income, gross margin % , payments,tax, etc..
    - Los Angeles has the highest VAT contribution (18%).
    - **Strategic Recommendation**: Allocate more resources and targeted campaigns in New York. Investigate and manage VAT implications in Los Angeles.
   
-  ### Conclusion
+  ## Conclusion
 
 The analysis reveals that 'Health and Beauty' and 'Electronics' are top-performing product lines, while 'Fashion' underperforms despite high VAT. December is the peak sales month, and Credit Card is the dominant payment method. 'Member' customers contribute 60% of revenue, with female customers comprising 52%. Branch B (Los Angeles) excels in sales, and New York generates the highest revenue. Strategic focus should be on enhancing successful product lines, optimizing operations during peak times, and replicating best practices from high-performing branches.
 
