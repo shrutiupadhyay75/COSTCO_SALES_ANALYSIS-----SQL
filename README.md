@@ -9,7 +9,7 @@ The major aim of this project is to gain insight into the sales data of Walmart 
 This dataset contains sales transactions from a three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns and 1000 rows:
 payment,gross income, gross margin % , payments,tax, etc..  The goal is to derive insights from the data using SQL queries.
 
-## Insights Summary:
+## key Takeways:
 
 1. **Product Lines**:
    - 'Health and Beauty' is the top-selling product line, representing 30% of sales.
@@ -46,3 +46,5 @@ payment,gross income, gross margin % , payments,tax, etc..  The goal is to deriv
 
 The analysis reveals that 'Health and Beauty' and 'Electronics' are top-performing product lines, while 'Fashion' underperforms despite high VAT. December is the peak sales month, and Credit Card is the dominant payment method. 'Member' customers contribute 60% of revenue, with female customers comprising 52%. Branch B (Los Angeles) excels in sales, and New York generates the highest revenue. Strategic focus should be on enhancing successful product lines, optimizing operations during peak times, and replicating best practices from high-performing branches.
 
+
+Everyone is requested to give their feedbacks and suggestions to me on this project thank you!
