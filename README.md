@@ -47,4 +47,4 @@ payment,gross income, gross margin % , payments,tax, etc..  The goal is to deriv
 The analysis reveals that 'Health and Beauty' and 'Electronics' are top-performing product lines, while 'Fashion' underperforms despite high VAT. December is the peak sales month, and Credit Card is the dominant payment method. 'Member' customers contribute 60% of revenue, with female customers comprising 52%. Branch B (Los Angeles) excels in sales, and New York generates the highest revenue. Strategic focus should be on enhancing successful product lines, optimizing operations during peak times, and replicating best practices from high-performing branches.
 
 
-Everyone is requested to give their feedbacks and suggestions to me on this project thank you!
+   ***----Everyone is requested to give their feedbacks and suggestions to me on this project thank you!-----***
