@@ -1,5 +1,5 @@
 -- Create database
-CREATE DATABASE IF NOT EXISTS walmartsales;
+CREATE DATABASE IF NOT EXISTS salescostco;
 
 
 -- Create table
