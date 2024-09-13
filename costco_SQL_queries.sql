@@ -83,9 +83,9 @@ ALTER TABLE sales ADD COLUMN month_name VARCHAR(10);
 UPDATE sales
 SET month_name = MONTHNAME(date);
 
--- --------------------------------------------------------------------
--- ---------------------------- Generic Information ------------------------------
--- --------------------------------------------------------------------
+
+-- ----- Generic Information --------
+
 -- How many unique cities does the data have?
 SELECT 
 	DISTINCT city
@@ -97,9 +97,9 @@ SELECT
     branch
 FROM sales;
 
--- --------------------------------------------------------------------
--- ---------------------------- Product Information -------------------------------
--- --------------------------------------------------------------------
+
+-- ----- Product Information -----
+
 
 -- How many unique product lines does the data have?
 SELECT
@@ -212,9 +212,9 @@ GROUP BY product_line
 ORDER BY avg_rating DESC;
 
 
--- --------------------------------------------------------------------
--- -------------------------- Customers Informztion-------------------------------
--- --------------------------------------------------------------------
+
+-- ----- Customers Information------
+
 
 -- How many unique customer types does the data have?
 SELECT
@@ -306,9 +306,9 @@ WHERE branch = "C"
 GROUP BY day_name
 ORDER BY total_sales DESC;
 
--- --------------------------------------------------------------------
--- ---------------------------- Sales Information ---------------------------------
--- --------------------------------------------------------------------
+
+-- ------ Sales Information ------
+
 
 -- Number of sales made in each time of the day per weekday 
 SELECT
@@ -345,5 +345,4 @@ FROM sales
 GROUP BY customer_type
 ORDER BY total_tax;
 
--- --------------------------------------------------------------------
--- --------------------------------------------------------------------
+
