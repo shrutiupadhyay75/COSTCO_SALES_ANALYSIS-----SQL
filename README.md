@@ -1,12 +1,12 @@
-# Walmart_Sales_Analysis-----SQL
+# Sales_Analysis-----SQL
 
 ## Objectives
 
-The major aim of this project is to gain insight into the sales data of Walmart to understand the different factors that affect sales of the different branche such as analyze customer behavior and preferences.
+The major aim of this project is to gain insight into the sales data of costco to understand the different factors that affect sales of the different branche such as analyze customer behavior and preferences.
 
 ## Overview
 
-This dataset contains sales transactions from a three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns and 1000 rows:
+This dataset contains sales transactions from a three different branches of costco, respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns and 1000 rows:
 payment,gross income, gross margin % , payments,tax, etc..  The goal is to derive insights from the data using SQL queries.
 
 ### Tools and Technology Used:
@@ -14,7 +14,7 @@ payment,gross income, gross margin % , payments,tax, etc..  The goal is to deriv
 
 ## Key Tasks Performed:
 1. **Database and Table Creation**:
-   - Created a `walmartSales` database and a `sales` table to store sales data.
+   - Created a database and a `sales` table to store sales data.
 2. **Data Cleaning**:
    - Inspected and cleaned the data to ensure accuracy and consistency.
 3. **Data Transformation**:
