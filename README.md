@@ -2,7 +2,7 @@
 
 ## Objectives
 
-The major aim of this project is to gain insight into the sales data of costco to understand the different factors that affect sales of the different branche such as analyze customer behavior and preferences.
+The major aim of this project is to gain insight into the sales data of costco to understand the different factors that affect sales of the different branches such as analyze customer behavior and preferences.
 
 ## Overview
 
